@@ -1,0 +1,66 @@
+html{
+    background-color: #ffeedd;
+}
+body {
+    margin: 10%;
+}
+
+
+.entete{
+    display:flex;
+}
+
+h1{
+    background-color: powderblue;
+    border: solid;
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #5897a0;
+    color: white;
+}
+
+ul{
+    margin-left: 9%;
+    font-size: larger;
+}
+
+.image{
+    width: 50%;
+    display: inline-block;
+    margin-right: 5rem;
+}
+
+.profil{
+    width: 85%;
+    align-self: center;
+    font-size: x-large;
+}
+
+.lien{
+    display: flex;
+}
+
+.sousLien{
+    width: 50%;
+    text-align-last: center;
+    align-self: center;
+}
+
+.islam{
+    width: 45%
+}
